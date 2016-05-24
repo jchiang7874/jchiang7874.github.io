@@ -1,1 +1,1 @@
-#[Check me out] (jchiang7874.github.io)
+#[Check me out] (http://jchiang7874.github.io)
